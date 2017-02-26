@@ -25,6 +25,11 @@
    	var rabatpris = Math.ceil(produkt.pris - (produkt.pris * produkt.rabatsats / 100));
    	klon.querySelector(".data_rabatpris").innerHTML = rabatpris;
    	// Append klon til produkt-liste
+
+   	klon.querySelector(".data_billede").src = "/imgs/small/" + produkt.billede + "-sm.jpg";
+
+
+
    	document.querySelector(".produktliste").appendChild(klon);
 
    }
