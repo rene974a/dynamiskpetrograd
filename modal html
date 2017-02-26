@@ -1,0 +1,309 @@
+
+				<div class="modal fade" id="pop_op_detajer" tabindex="-1" role="dialog" aria-labelledby="modallabel">
+
+					<div class="modal-dialog" role="document">
+						<div class="modal-content">
+
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-label="close"> <span aria-hidden="true">&times;</span>
+								</button>
+								<h3 class="modal-title" id="modallabel">Kålsuppe med 7 kålvarianter</h3>
+							</div>
+							<div class="modal-body">
+								<img src="imgs/medium/kaalsuppe.jpg" class="img-responsive" alt="Kålsuppe fra Østsibirien">
+								<p>Kålsuppe med 7 kålvarianter</p>
+								<div class="table-responsive">
+									<table class="table table-bordered table-striped">
+										<thead>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row"><strong>Pris</strong></th>
+												<td><span class="data-Pris"></span>69,00</td>
+											</tr>
+											<tr>
+												<th scope="row"><strong>Vegetar</strong></th>
+												<td><span class="data-vegetar"></span>Ja</td>
+											</tr>
+											<tr>
+												<th scope="row"><strong>Rabat</strong></th>
+												<td><span class="data-rabat"></span>nej</td>
+											</tr>
+											<tr>
+												<th scope="row"><strong class="kombinere med">Kombinere med</strong></th>
+												<td>34, 79</td>
+											</tr>
+											<tr>
+												<th scope="row"><strong>Rabat</strong></th>
+												<td><span class="data-rabat"></span>20</td>
+											</tr>
+										</tbody>
+									</table>
+									<div class="modal-footer">
+										<button type="button" data-dismiss="modal" class="btn btn-default"> close</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+				
+				
+				
+				
+		<!--	//------ modal boks  ----// -->
+
+
+		<!--	//------ modal boks slut  ----// -->
+
+
+		<!--<section class="col-sm-4 col-lg-4 col-md-4">
+			<a href="#"> </a><img class="img responsive data_billede" scr="imgs/small/kaalsuppe-sm.jpg" alt=""> </a>
+			<h4><span class="data_pris">49</span>.-</h4>
+
+			<h3>Bulgarsk Bondesuppe</h3>
+			<h4>99</h4>
+			<p>Da Caucesku var i færd med at skrive sit navn med højhuse, var han nødt til at give håndværkerne solid kost, så de kunne arbejde 18 timer i døgnet, 7 dage om ugen: Bulgarsk bondesuppe. Suppen består af alt det bedste fra Bulgarien.</p>
+
+			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pop_op_detajer2">Se detaljer<span class="glyphicon glyphicon-chevron-left"></span></button>
+
+		</section>
+
+
+		<section class="col-sm-4">
+			<img src="imgs/medium/caviarbruschetta-md.jpg" class="img-responsive" alt="Dr Sanders Photo">
+			<h3>Caviar Bruschetta</h3>
+			<p>Til denne dejlige Bruschetta anvender vi kun de dejligste sibiriske Caviar. Caviarerne presses ud af fiskene mens de stadig er levende, og vædes derefter i Putinka Vodka. Der er masser af bjerggedesmør på bruschettaene.</p>
+
+			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#pop_op_detajer3">Se detaljer<span class="glyphicon glyphicon-chevron-left"></span></button>
+
+		</section>-->
+
+	</div>
+
+	<!--- container -- >
+	<!-- row -- >
+
+	<!-- content container -->
+	<!--<div class="container">
+		<div class="row">
+
+			<div class="row">
+
+				<h2>Her kan du læse mere om vores Hovedretter</h2>
+
+				<p>Russisk mad er varmt trykt og lækkert.</p>
+				<p>Vi glæder os rigtigt meget til at invidere dig indenfor</p>
+				<p>Restauraner ligger 100 meter fra Rådhuspladesen og 10 meter fra den nærmeste s-togs station.</p>
+
+
+			</div>
+
+			<section class="col-sm-4">
+				<img src="imgs/medium/russisktapas-md.jpg" class="img-responsive" alt="Dr Winthrop Photo">
+				<h3>Russisk Tapas</h3>
+				<p>Der er blevet sagt meget om det russiske køkken, men godt har sjældent været et af tillægsordene. Russisk tapas er dog lækkert. Inspireret af duften af Italien får du her tørret bøffelkød, hvidt brød og tomater badet i koldpresset olie.</p>
+			</section>
+
+			<section class="col-sm-4">
+				<img src="imgs/large/boef.jpg" class="img-responsive" alt="Dr Chase Photo">
+				<h3>Zygroffs bondeplatte</h3>
+				<p>Under de trange vilkår på landet Sibirien, bød husmændene på Zygroffs bondeplatte, når der var fest. Gode, grove grøntsager, tørret bøffelkod og masser af æg. Specielt for bondeplatten blev de dejlige caviar skiftet ud med billige kapers. </p>
+			</section>
+
+			<section class="col-sm-4">
+				<img src="imgs/large/dynryp.jpg" class="img-responsive" alt="Dr Sanders Photo">
+				<h3>Dynryp</h3>
+				<p>Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. Svampene minder om kantarelle, men med en mere støvet smag.</p>
+			</section>
+
+
+		</div>
+
+	</div>-->
+	<div class="container">
+		<div class="row">
+
+			<div class="row">
+
+				<h2>Russiske desserter til den søde tand</h2>
+
+
+			</div>
+
+			<section class="col-sm-3">
+				<img src="imgs/large/lunknepandekager.jpg" class="img-responsive" alt="Dr Winthrop Photo">
+				<h3>Russisk Tapas</h3>
+				<p>Der er blevet sagt meget om det russiske køkken, men godt har sjældent været et af tillægsordene. Russisk tapas er dog lækkert. Inspireret af duften af Italien får du her tørret bøffelkød, hvidt brød og tomater badet i koldpresset olie.</p>
+			</section>
+
+			<section class="col-sm-3">
+				<img src="imgs/large/kirgisiskroulade.jpg" class="img-responsive" alt="Dr Chase Photo">
+				<h3>Zygroffs bondeplatte</h3>
+				<p>Under de trange vilkår på landet Sibirien, bød husmændene på Zygroffs bondeplatte, når der var fest. Gode, grove grøntsager, tørret bøffelkod og masser af æg. Specielt for bondeplatten blev de dejlige caviar skiftet ud med billige kapers. </p>
+			</section>
+			<section class="col-sm-3">
+				<img src="imgs/large/pavlova.jpg" class="img-responsive" alt="Dr Sanders Photo">
+				<h3>Dynryp</h3>
+				<p>Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. Svampene minder om kantarelle, men med en mere støvet smag.</p>
+			</section>
+			<section class="col-sm-3">
+				<img src="imgs/large/ringbroed-druer.jpg" class="img-responsive" alt="Dr Sanders Photo">
+				<h3>Dynryp</h3>
+				<p>Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. Svampene minder om kantarelle, men med en mere støvet smag.</p>
+			</section>
+
+
+		</div>
+	</div>
+	<div class="container">
+
+		<div class="row"></div>
+		<div class="menu_tekst-under col-xs-12 col-md-12">
+			<h4>Kombinere selv dine favoritter</h4>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+
+			<div class="row">
+
+				<h2>Vi tilbyder et udvalg af vegetarretter</h2>
+
+			</div>
+
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/medium/russisktapas-md.jpg" class="img-responsive" alt="Dr Winthrop Photo">
+				<h3>Russisk Tapas</h3>
+				<p>Der er blevet sagt meget om det russiske køkken, men godt har sjældent været et af tillægsordene. .</p>
+			</section>
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/large/boef.jpg" class="img-responsive" alt="Dr Chase Photo">
+				<h3>Zygroffs bondeplatte</h3>
+				<p>Under de trange vilkår på landet Sibirien, bød husmændene på Zygroffs bondeplatte, når der var fest. </p>
+
+			</section>
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/large/dynryp.jpg" class="img-responsive" alt="Dr Sanders Photo">
+				<h3>Dynryp</h3>
+				<p>Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. </p>
+			</section>
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/medium/russisktapas-md.jpg" class="img-responsive" alt="Dr Winthrop Photo">
+				<h3>Russisk Tapas</h3>
+				<p>Der er blevet sagt meget om det russiske køkken, men godt har sjældent været et af tillægsordene. .</p>
+			</section>
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/large/boef.jpg" class="img-responsive" alt="Dr Chase Photo">
+				<h3>Zygroffs bondeplatte</h3>
+				<p>Under de trange vilkår på landet Sibirien, bød husmændene på Zygroffs bondeplatte, når der var fest. </p>
+			</section>
+
+			<section class="veggetarretter col-sm-2">
+				<img src="imgs/large/dynryp.jpg" class="img-responsive" alt="Dr Sanders Photo">
+				<h3>Dynryp</h3>
+				<p>Dynrup - Russisk bulgur med skovsvampe fra det østlige Kirgisistan. </p>
+			</section>
+
+		</div>
+
+	</div>
+	<div class="container">
+		<div class="row">
+
+			<div class="row">
+				<div class="menu_tekst col-xs-12 col-md-12">
+					<h2>Menukort</h2>
+				</div>
+			</div>
+			<section class="menukort col-xs-12">
+				<div class="table-responsive">
+					<table class="table table-bordered table-striped">
+						<thead>
+							<tr>
+								<th>Retter</th>
+								<th>Navn</th>
+								<th>Pris</th>
+								<th>Kort beskrivelse</th>
+								<th>Kombinere</th>
+								<th>Udsolgt</th>
+
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th scope="row">Forret</th>
+
+								<td>Russisk ringbrød med vindruer</td>
+								<td>39,00</td>
+								<td>Russisk ringbrød af Karapatisk mel</td>
+								<td>60</td>
+							</tr>
+							<tr>
+								<th scope="row">Hovedret</th>
+								<td>Bulgarsk bondesuppe</td>
+								<td>99,00</td>
+								<td>Cauceskus bulgarske bondesuppe</td>
+								<td>60, 77</td>
+							</tr>
+							<tr>
+								<th scope="row">Dessert</th>
+								<td>Pandekager med kaviar</td>
+								<td>79,00</td>
+								<td>Brændte pandekager med Bordyriske ørne-kaviar</td>
+								<td>60</td>
+							</tr>
+							<tr>
+								<th scope="row">Drikkevarer</th>
+								<td>Voda-vodka</td>
+								<td>19,00</td>
+								<td>Voda-vodka - vodka i rigelige mængder</td>
+								<td>Alt</td>
+							</tr>
+							<tr>
+								<th scope="row">Sideorders</th>
+								<td>Voda-vodka</td>
+								<td>19,00</td>
+								<td>Voda-vodka - vodka i rigelige mængder</td>
+								<td>Alt</td>
+								<td>Udsolgt</td>
+							</tr>
+
+						</tbody>
+					</table>
+				</div>
+			</section>
+		</div>
+		<!-- row -->
+	</div>
+	<!-- content container -->
+	<div class="container">
+		<div class="row">
+
+			<div class="row">
+
+				<h2>Russisk Vodka og Rødvin</h2>
+			</div>
+
+			<section class="drikkevarer col-sm-6">
+				<img src="img/large/voda.jpg" class="img-responsive" alt="Dr Winthrop Photo">
+				<h3>Voda Vodka</h3>
+				<p>Voda-vodka - en vodka brygget på det pureste vand af smeltet sne fra Sibirien. Passer godt til alle hovedretter</p>
+			</section>
+
+			<section class="drikkevarer col-sm-6">
+				<img src="img/large/roedvin.jpg" class="img-responsive" alt="Dr Chase Photo">
+				<h3>Russisk Rødvin</h3>
+				<p>Huset Petrograd's rødvin er produceret før 1990, og lagret i de dybe saltminer (normalt forbeholdt defekte atomvåben) i Yekaterinburg. Det giver vinen en særdeles karakteristisk glød, der viser sig ved svag stearinlys-belysning.</p>
+			</section>
+		</div>
+
+	</div>
